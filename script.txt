@@ -1,0 +1,8 @@
+Hello Everyone.
+This a small demo video for the project EXPLAINIFYCLI.
+CLI App in Nodejs that gives the explanation of the code and also build with LLM and also chat with your code.
+
+We are using only two commands here.
+
+1. explanifycli explain <path to your code>
+2. explanifycli <whatever you want to ask to your code>  

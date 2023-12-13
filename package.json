@@ -1,0 +1,25 @@
+{
+  "name": "explanifycli",
+  "version": "1.0.0",
+  "description": "CLI App in Nodejs that gives the explanation of the code in the opened file",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "explanifycli": "index.js"
+  },
+  "author": "Akhilesh Chandewar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "faiss-node": "^0.5.1",
+    "langchain": "^0.0.204",
+    "openai": "^4.20.1",
+    "vscode": "^1.1.37"
+  }
+}
